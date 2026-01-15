@@ -1,0 +1,6 @@
+git config user.name "Muskan Kukreja"
+git config user.email "matrixmuskan@gmail.com"
+
+git remote set-url origin git@github-personal:matrixmuskan/Personal.git 
+
+git push -u origin main
